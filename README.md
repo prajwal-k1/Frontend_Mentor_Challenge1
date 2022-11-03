@@ -8,6 +8,8 @@ A website containing a card with QR-code to direct the people who scan to Fronte
 
 ### Screenshot
 
+https://github.com/prajwal-k1/Frontend_Mentor_Challenge1/blob/master/images/challenge1.jpg?raw=true
+
 ### Built with
 
 - Semantic HTML5 markup
